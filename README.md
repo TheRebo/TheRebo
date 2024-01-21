@@ -87,9 +87,6 @@
 ----
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheRebo&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="TheRebo" /></a> </p>
-
-[![@TheRebo's Holopin board](https://holopin.io/api/user/board?user=TheRebo)](https://holopin.io/@TheRebo)
-	
 </details>
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
@@ -98,10 +95,12 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/TheRebo/Password-Manager">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRebo&repo=Password-Manager&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	
+	<a href="https://github.com/TheRebo/Emergency-Button">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRebo&repo=Emergency-Button&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
   </p>
 </div>
 </details>
