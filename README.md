@@ -18,12 +18,12 @@
 <br><br>
 
 - :school: I am a `High School Student` at [SMKN-1 Muara Teweh](https://smkn1muarateweh.sch.id/).
-- :trophy: Ranked `Fifth` in the graduating class of `SMPN-1 Muara Teweh` in `2023`.
-- :technologist: I `Love` using Software as a solution for every `Problem`.
-- :computer: I am `LOVE` playing Computer since I was `Little`.
-- :student: I’m currently learning `All things` about programming.
+- :trophy: Ranked `5` in the graduating class of `SMPN-1 Muara Teweh` in `2023`.
+- :technologist: I `love` using Software as a solution for every `problem`.
+- :computer: I am `LOVE` playing Computer since I was a `kid`.
+- :student: I’m currently learning `all things` about programming.
 - :nerd_face: I'm `NOT` a Clown :clown_face:.
-- :sunglasses: Always `Learning new things`.
+- :sunglasses: Always `learning new things`.
 <br>
 
 
@@ -32,8 +32,6 @@
 <p align="center">
 	<a href="mailto:naim.a.s.1002@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/TheRebo"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.instagram.com/the_rebo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://www.tiktok.com/@the_rebo1002/"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" /></a>
 </p>
 
 
@@ -97,9 +95,6 @@
   <p align="center">
 	<a href="https://github.com/TheRebo/Password-Manager">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRebo&repo=Password-Manager&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/TheRebo/Emergency-Button">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRebo&repo=Emergency-Button&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
