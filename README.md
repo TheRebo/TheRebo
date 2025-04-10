@@ -86,8 +86,6 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheRebo&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="TheRebo" /></a> </p>
 </details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
 	
