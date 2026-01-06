@@ -1,24 +1,56 @@
-<h1 align="center">Hi, I'm Na'im Annafi Santosa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught;16+Years+Old;Still+learning+>_<">
-  </a>
-</p>
+<div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=160&section=header&text=Na'im%20Annafi%20Santosa&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheRebo&label=Profile%20Views&color=0047AB&style=plastic" alt="Profile Views" height="25px" width="160px"/>
-</p>
+### just a student who likes to code
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=self+taught+%7C+16+y.o+%7C+still+figuring+things+out)](https://git.io/typing-svg)
 
-<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+</div>
 
-<br><br>
+## hey there
 
-* :school: I’m a `High School Student` at [SMK Negeri 1 Muara Teweh](https://smkn1muarateweh.sch.id/).
-* :trophy: Ranked `5th` in the graduating class of `SMP Negeri 1 Muara Teweh` in `2023`.
-* :technologist: I `love` using software as a solution to every `problem`.
-* :computer: I’ve `loved` playing with computers since I was a `kid`.
-* :nerd_face: I’m `NOT` a clown :clown_face:.
+just your typical high schooler who happens to enjoy spending time with computers. started messing around with code because i thought it was cool, and somehow still here.
+
+**currently:** student at [SMK Negeri 1 Muara Teweh](https://smkn1muarateweh.sch.id/)
+
+**fun fact:** ranked 5th back in junior high (2023) - probably not a big achievement
+
+## what i'm about
+
+- problem solving through code (when it actually works)
+
+- been into computers (and play station, of course) since i was a kid
+
+- learning stuff on my own, one ~AI~ tutorial at a time
+
+- trying to build things that make sense (and sometimes failed)
+
+## quick stats
+
+```
+┌─ info
+│  name: Na'im Annafi Santosa
+│  age: 16
+│  location: Muara Teweh, Indonesia 🇮🇩
+│  status: high school student
+│
+└─ interests
+│  • sleeping
+│  • listen to music
+│  • tech stuff
+│  • milk (better than coffee, can't change mind)
+│
+└─ goal
+    living peacefully with financial freedom (naive 99%)
+```
+
+---
+
+<div align="center">
+
+*bug breeding, and it's real*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
+
+</div>
