@@ -25,10 +25,10 @@ just your typical high schooler who happens to enjoy spending time with computer
 
 ```
 ┌─ info
-│  name    : Na'im Annafi Santosa
-│  age     : 16
-│  location: Muara Teweh, Indonesia 🇮🇩
-│  status  : high school student
+│  name      :  Na'im Annafi Santosa
+│  age       :  16
+│  location  :  Muara Teweh, Indonesia 🇮🇩
+│  status    :  high school student
 │
 ├─ interests
 │  • sleeping
