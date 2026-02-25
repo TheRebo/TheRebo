@@ -10,41 +10,42 @@
 
 ## hey there
 
-just your typical high schooler who happens to enjoy spending time with computers. started messing around with code because i thought it was cool, and somehow still here.
+just your typical high schooler who happens to enjoy spending time with computers. started messing around with code because i thought it was cool — and somehow, i'm still here.
 
 **currently:** student at [SMK Negeri 1 Muara Teweh](https://smkn1muarateweh.sch.id/)
 
 ## what i'm about
 
-- problem solving through code (when it actually works)
-- been into computers (and play station, of course) since i was a kid
-- learning stuff on my own, one ~AI~ tutorial at a time
-- trying to build things that make sense (and sometimes even makes no sense)
+- solving problems through code *(when it actually works)*
+- been into computers — and PlayStation, of course — since i was a kid
+- learning on my own, one ~~AI~~ tutorial at a time
+- building things that make sense, and occasionally things that don't
 
 ## quick stats
 
 ```
 ┌─ info
-│  name: Na'im Annafi Santosa
-│  age: 16
+│  name    : Na'im Annafi Santosa
+│  age     : 16
 │  location: Muara Teweh, Indonesia 🇮🇩
-│  status: high school student
+│  status  : high school student
 │
-└─ interests
+├─ interests
 │  • sleeping
-│  • listen to music
+│  • listening to music
 │  • tech stuff
-│  • milk (better than coffee, can't change mind)
+│  • milk (better than coffee — not changing my mind)
 │
 └─ goal
-    living peacefully with financial freedom (probability 99%, naive 100%)
+      living peacefully with financial freedom
+      (probability: 1% realistic, 99% delusion)
 ```
 
 <br>
 
 <blockquote>
   <div align="center">
-    <em>bug breeding, and it's real</em>
+    <em>professionally breeding bugs since day one.</em>
   </div>
 </blockquote>
 
