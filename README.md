@@ -1,12 +1,4 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=160&section=header&text=Na'im%20Annafi%20Santosa&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-### just a student who likes to code
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=self+taught+%7C+16+y.o+%7C+still+figuring+things+out)](https://git.io/typing-svg)
-
-</div>
 
 ## hey there
 
