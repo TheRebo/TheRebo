@@ -8,7 +8,7 @@ just your typical high schooler turned college student who happens to enjoy spen
 
 ```
 ┌─ info
-│  age       :  16
+│  age       :  67
 │  location  :  (small town) > big city in Indonesia 🇮🇩 
 │  status    :  (high school) > college student
 │
