@@ -2,7 +2,7 @@
 
 ## hey there
 
-just your typical high schooler turned college student who happens to enjoy spending time with computers. started messing around with code because i thought it was really cool, and somehow, i'm still here.
+just your typical high schooler boy turned college student who happens to enjoy spending time with computers since kid. started messing around with code because i thought it was really cool, and somehow, i'm still here.
 
 ## quick stats
 
@@ -14,6 +14,7 @@ just your typical high schooler turned college student who happens to enjoy spen
 │
 ├─ interests
 │  • sleeping
+│  • gaming
 │  • listening to music
 │  • tech stuff
 │  • milk (better than coffee, not changing my mind)
